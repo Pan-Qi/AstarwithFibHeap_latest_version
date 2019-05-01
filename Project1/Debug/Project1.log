@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\monash\research\astarwithfibheap\project1\fib_heap.h(136): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Project1.vcxproj -> C:\monash\Research\AstarwithFibHeap\Debug\AstarwithFibHeap.exe
